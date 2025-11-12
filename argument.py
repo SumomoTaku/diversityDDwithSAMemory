@@ -141,7 +141,7 @@ def get_args():
     # IDC. Code NOT found
     ds_parser.add_argument('-s', '--slct_type',type=str, default='idc', help='data condensation type ',
                         choices=["idc", "dsa", "kip", "random", "herding"])
-    # ds_parser.add_argument('-f', '--factor', type=int, default=1, help='multi-formation factor. (1 for IDC-I)')
+    ds_parser.add_argument('-f', '--factor', type=int, default=1, help='multi-formation factor. (1 for IDC-I)')
     # ds_parser.add_argument('-a', '--aug_type', type=str, default='color_crop_cutout',
     #                     help='augmentation strategy for condensation matching objective')
     # ## Matching objective
