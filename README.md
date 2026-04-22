@@ -1,6 +1,6 @@
 # Diversity-Driven Generative Dataset Distillation Based on Diffusion Model with Self-Adaptive Memory
 The code used in the following paper:<br>
-[Diversity-Driven Generative Dataset Distillation Based on Diffusion Model with Self-Adaptive Memory(ICIP 2025)](https://arxiv.org/abs/2505.19469)
+[Diversity-Driven Generative Dataset Distillation Based on Diffusion Model with Self-Adaptive Memory](https://arxiv.org/abs/2505.19469) [ICIP 2025](https://2025.ieeeicip.org/)
 
 The code is modified from that of **[Minimax](https://github.com/vimar-gu/MinimaxDiffusion)**, following the paper **[Efficient Dataset Distillation via Minimax Diffusion](https://arxiv.org/abs/2311.15529).**<br>
 In addition to the new parts mentioned in our paper, the modification also includes the following points:<br>
